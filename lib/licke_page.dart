@@ -18,7 +18,7 @@ class _LikePageState extends State<LikePage> {
       child: Scaffold(
           backgroundColor: Colors.black12,
           appBar: AppBar(
-            backgroundColor: Colors.black,
+            backgroundColor: Colors.black12,
             bottom: TabBar(
               unselectedLabelColor: Colors.grey,
                 labelColor: Colors.white,
